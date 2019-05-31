@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT doporopo_4055.wsgi:application
